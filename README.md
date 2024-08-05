@@ -1,7 +1,3 @@
-Built on top of ROR + React. Allows to add your daily task, set status of task and delete it.
-
-
-
 # EasyTasks built on top of Ruby on Rails + React
 
 This is a CRUD application built with Ruby on Rails for the backend and React for the frontend. The application allows users to sign up, log in, and manage their todos.
