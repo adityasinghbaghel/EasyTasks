@@ -62,13 +62,13 @@ Before you begin, ensure you have the following installed:
 2. **Install dependencies**
 
     ```sh
-    yarn install
+    npm install
     ```
 
 3. **Start the React application**
 
     ```sh
-    yarn start
+    npm start
     ```
 
 ### Running the Application
