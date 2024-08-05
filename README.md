@@ -29,7 +29,7 @@ Before you begin, ensure you have the following installed:
 
     ```sh
     git clone https://github.com/adityasinghbaghel/CRUD-App/tree/main
-    cd your-repo-name/backend
+    cd your-repo-name/backend/app
     ```
 
 2. **Install gems**
