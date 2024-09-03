@@ -19,10 +19,11 @@ Before you begin, ensure you have the following installed:
 
 ## Screenshots
 
-![Login](https://drive.google.com/file/d/1HJmAHqgzZrZOZa006MNOjQsqJ7Wnwefv/view?usp=drive_link)
-![Sign Up](https://drive.google.com/file/d/1_YLyr3cS8TMRrvwS5lbgIk4nH2Mlwpcd/view?usp=drive_link)
-![Dashboard](https://drive.google.com/file/d/1m0_fJqK1wxlD38bOivCyYz7clolM2CmI/view?usp=drive_link)
-![Tasks](https://drive.google.com/file/d/15cB6Te6CcYS0cjNGZ6iUTMQMzezTJt2R/view?usp=drive_link)
+![Login](https://drive.google.com/uc?export=view&id=1HJmAHqgzZrZOZa006MNOjQsqJ7Wnwefv)
+![Sign Up](https://drive.google.com/uc?export=view&id=1_YLyr3cS8TMRrvwS5lbgIk4nH2Mlwpcd)
+![Dashboard](https://drive.google.com/uc?export=view&id=1m0_fJqK1wxlD38bOivCyYz7clolM2CmI)
+![Tasks](https://drive.google.com/uc?export=view&id=15cB6Te6CcYS0cjNGZ6iUTMQMzezTJt2R)
+
 
 ## Setup Instructions
 
